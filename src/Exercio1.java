@@ -37,6 +37,7 @@ public class Exercio1 {
                 }
                 strDeSaida.append("\n");
 
+
             }
             strDeSaida.append(str);
 
